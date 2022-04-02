@@ -1,16 +1,9 @@
 ### Hi there 👋
+#
+My Telegram: [@SsNiPeR1](https://t.me/SsNiPeR1)
 
-<!--
-**SsNipeR1/SsNipeR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Discord: SsNiPeR1#2938
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on telegram bot written on python
-- 🌱 I’m currently learning python, c/c++
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do some easy projects in Python and C!
+---
+You can freely PM me in Telegram and Discord, but if you have a real reason to, or you are my well-known friend.
