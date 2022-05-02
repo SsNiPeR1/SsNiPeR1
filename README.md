@@ -4,7 +4,7 @@ My Telegram: [@SsNiPeR1](https://t.me/SsNiPeR1)
 
 My Discord: SsNiPeR1#2938
 
-My Website: [https://ssniper1.ml](https://ssniper1.ml)
+My Website: [https://ssniper1.ml/](https://ssniper1.ml)
 
 I do some easy projects in Python and C!
 ---
