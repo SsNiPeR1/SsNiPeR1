@@ -5,6 +5,6 @@
 
 ### Can I contact you? Sure! Here are my contacts:
  - My Telegram: [@SsNiPeR1](https://t.me/SsNiPeR1)
- - My Discord: SsNiPeR1#8211
+ - I don't actually have anything else where I can reply fast, so Telegram is your best bet.
 
 My Website: [ssniper1.ml](https://ssniper1.ml)
