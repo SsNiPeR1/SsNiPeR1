@@ -1,4 +1,4 @@
-# Hey there, I'm SsNiPeR1! 👋
+# Hey there, I'm blitzbyte! 👋
 
 👨‍💻 **Developer** | 🚀 **Golang Fan** | 🌐 **Web3 Enthusiast**
 
@@ -9,6 +9,6 @@
 
 ## Connect
 - 🌍 **Website**: [ssniper1.cc](https://ssniper1.cc)
-- 📨 **Telegram**: [@technologyton](https://t.me/technologyton)
+- 📨 **Telegram**: [@blitzbyte](https://t.me/blitzbyte)
 
 ![SsNiPeR1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SsNiPeR1&theme=dark&hide_title=true)
